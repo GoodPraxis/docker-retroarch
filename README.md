@@ -7,3 +7,4 @@ and then tests it on Retroarch by taking a screenshot.
 
 You can also use `xdotool` to emulate key presses.
 
+[Image on Docker Hub](https://hub.docker.com/r/maciekbaron/retroarch)
