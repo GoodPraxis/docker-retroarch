@@ -2,7 +2,7 @@
 This image has everything you need to run tests involving Retroarch
 (for example, when testing homebrew game builds).
 
-This repository contains an example Gitlab CI file that builds a rom
+This repository contains an example Gitlab CI file that [builds a rom](https://github.com/GoodPraxis/sgdk-build)
 and then tests it on Retroarch by taking a screenshot.
 
 You can also use `xdotool` to emulate key presses.
